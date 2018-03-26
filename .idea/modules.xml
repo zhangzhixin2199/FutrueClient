@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FutrueClient.iml" filepath="$PROJECT_DIR$/FutrueClient.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FutrueClientApp/FutrueClientApp.iml" filepath="$PROJECT_DIR$/FutrueClientApp/FutrueClientApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FutrueHybrid/app.iml" filepath="$PROJECT_DIR$/FutrueHybrid/app.iml" />
     </modules>
   </component>
 </project>
