@@ -7,4 +7,8 @@ import android.app.Application;
  */
 
 public class FutrueApplication extends Application {
+    @Override
+    public void onCreate() {
+        super.onCreate();
+    }
 }

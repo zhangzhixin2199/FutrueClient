@@ -1,1 +1,1 @@
-include ':FutrueHybrid', ':FutrueClientApp'
+include ':FutrueHybrid', ':FutrueClientApp', ':FutrueCommon'

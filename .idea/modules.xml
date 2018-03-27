@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FutrueClient.iml" filepath="$PROJECT_DIR$/FutrueClient.iml" />
       <module fileurl="file://$PROJECT_DIR$/FutrueClientApp/FutrueClientApp.iml" filepath="$PROJECT_DIR$/FutrueClientApp/FutrueClientApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FutrueCommon/Futruecommon.iml" filepath="$PROJECT_DIR$/FutrueCommon/Futruecommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FutrueHybrid/FutrueHybrid.iml" filepath="$PROJECT_DIR$/FutrueHybrid/FutrueHybrid.iml" />
       <module fileurl="file://$PROJECT_DIR$/FutrueHybrid/app.iml" filepath="$PROJECT_DIR$/FutrueHybrid/app.iml" />
     </modules>
   </component>

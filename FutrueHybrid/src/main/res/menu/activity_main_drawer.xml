@@ -34,5 +34,13 @@
                 android:title="Send" />
         </menu>
     </item>
+    <item android:title="test">
+        <menu>
+            <item
+                android:id="@+id/nav_test"
+                android:icon="@android:drawable/ic_menu_more"
+                android:title="Test list" />
+        </menu>
+    </item>
 
 </menu>

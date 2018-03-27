@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/FutrueClientApp" />
+            <option value="$PROJECT_DIR$/FutrueCommon" />
             <option value="$PROJECT_DIR$/FutrueHybrid" />
           </set>
         </option>
