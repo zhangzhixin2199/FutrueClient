@@ -10,5 +10,6 @@ public class FutrueApplication extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
+        // TODO: 18/3/30  test
     }
 }
